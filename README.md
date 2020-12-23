@@ -1,6 +1,11 @@
 # ESP8266-HomeKit-Outlet
 ESP8266-HomeKit Outlet
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/achimpieters/ESP8266-HomeKit-Power-Outlet)
+![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/ESP8266-HomeKit-Power-Outlet/total)
+[![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
+
 For More Information Visit http://www.studiopieters.nl/
 
 ![Image Power outlet](https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Power-Outlet/master/ESP%20HomeKit%20Power%20Outlet.png)
